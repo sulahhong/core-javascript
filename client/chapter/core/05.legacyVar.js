@@ -17,7 +17,7 @@ var outside = 'outer';
 
 console.log(inside);
 
-let inside = 'another'
+// let inside = 'another'
 
 
 
@@ -35,13 +35,13 @@ let inside = 'another'
 // var는 변수의 중복 선언을 허용합니다
 
 
-var a = 10;
-var a = 5;
+// var a = 10;
+// var a = 5;
 
 
 
-let b = 30;
-let b = 50;
+// let b = 30;
+// let b = 50;
 
 
 

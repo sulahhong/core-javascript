@@ -84,7 +84,7 @@ console.log(  [...first, ...second,7,8,9]  );
 
 
 
-        // rest parameter
+// rest parameter
 function sum(...rest){
     console.log(rest);
 }
